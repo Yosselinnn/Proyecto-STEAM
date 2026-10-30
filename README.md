@@ -1,3 +1,23 @@
 # Proyecto-STEAM
 
-<img width="474" height="331" alt="OIP" src="https://github.com/user-attachments/assets/f62f71bc-f9d0-4967-91b3-95dd2857e258" />
+<img data-importer="image" align="left" height="181" src="https://logos-world.net/wp-content/uploads/2022/06/CONALEP-Logo.png"  />
+
+###
+
+<h3 data-importer="text" align="center">Este proyecto se fundamenta en un lenguaje de programación cuya sintaxis se expresa en español, diseñado para que las personas sordas y quienes no dominan el inglés aprendan a programar sin que el idioma represente un obstáculo. Sus palabras clave, sus mensajes de error y su documentación se redactan en español claro.</h3>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yosselinnn/Yosselinnn/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yosselinnn/Yosselinnn/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yosselinnn/Yosselinnn/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
