@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/Proyecto-STEAM/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/prueba.dir/main.cpp.o -c /workspaces/Proyecto-STEAM/main.cpp",
+  "file": "/workspaces/Proyecto-STEAM/main.cpp",
+  "output": "CMakeFiles/prueba.dir/main.cpp.o"
+}
+]

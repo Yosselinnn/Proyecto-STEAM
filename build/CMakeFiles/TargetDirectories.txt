@@ -1,0 +1,3 @@
+/workspaces/Proyecto-STEAM/build/CMakeFiles/prueba.dir
+/workspaces/Proyecto-STEAM/build/CMakeFiles/edit_cache.dir
+/workspaces/Proyecto-STEAM/build/CMakeFiles/rebuild_cache.dir
