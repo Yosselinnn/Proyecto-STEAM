@@ -16,5 +16,5 @@
 
 ## Documentación
 
-- [Documentación manual](Documentación/Documentación%20manualdeusuario/README.md)
+- [Documentación manual de usuario](Documentación/Documentación%20manualdeusuario/README.md)
 - [Documentación técnica](Documentación/Documentación%20técnica/README.md)
