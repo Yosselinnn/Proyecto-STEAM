@@ -5,7 +5,19 @@
 #include <string>
 
 #define incluir include
-#define entrada int
+
+#define entero int
+#define corto short
+#define largo long
+#define flotante float
+#define doble double
+#define caracter char
+#define cadena std::string
+#define vof bool//<??????????
+#define enteros unsigned
+#define decimales signed
+#define vacio void
+
 #define principal main
 #define regresar return
 
@@ -17,4 +29,4 @@
 #define si if 
 #define sino else
 
-#endif
+#endif  
