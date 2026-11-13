@@ -5,28 +5,35 @@
 #include <string>
 
 #define incluir include
-
-#define entero int
-#define corto short
-#define largo long
-#define flotante float
-#define doble double
-#define caracter char
-#define cadena std::string
-#define vof bool//<??????????
-#define enteros unsigned
-#define decimales signed
-#define vacio void
-
+#define devolver return
 #define principal main
-#define regresar return
 
+//declaraciones de tipos de datos
+using entero=int;
+using valor_corto=short;
+using valor_grande=long;
+using decimal=float;
+using doble=double;
+using caracter=char;
+using palabra=std::string;              
+using logica=bool;
+using numero_positivo=unsigned;
+using numero_negativo=signed;
+using vacio=void;
 
-#define mostrar std::cout
-#define cerrar std::endl
-#define leer std::cin
+//entradas y salidas
+template <typename T> 
+    inline void imprimir(const T& valor){
+    std::cout <<valor;
+    }
 
-#define si if 
+template <typename T>
+    inline void leer( T& valor){
+    std::cin >>valor;
+    }
+
+    // estructuras de control
+#define si if
 #define sino else
 
 #endif  
